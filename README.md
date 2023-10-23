@@ -1,9 +1,7 @@
 
-# Typescript for Angular
+# Typescript for Angular 🚀
 
-## Santander Bootcamp 2023 - Fullstack Java+Angular - DIO 🚀
-
-In this bootcamp module, I developed my knowledge of Typescript
+## In this repository, I developed my knowledge of Typescript
 
 ## Content
  
